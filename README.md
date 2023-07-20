@@ -4,24 +4,25 @@ Capstone Project (Team 'Comparing Reality') collaboration with Team 'Virtual Hum
 
 Credits:
 
-Team CR:
-Jay Holyland (Project Manager)
-Soniya KC
-Matthew Morriss
-Mark Vlatkovic
+Team CR:  
+Jay Holyland (Project Manager)  
+Matthew Morriss  
+Mark Vlatkovic  
+Soniya KC  
 
-Team VHB:
-Ryan Young (Project Manager)
-Liam Searle
-Tashi Dhenup
-Kevin Adamz
+Team VHB:  
+Ryan Young (Project Manager)  
+Liam Searle  
+Tashi Dhenup  
+Kevin Adamz  
 
-Blooma John
-Ram Subramanian
-Jason Weber
-David Richardson
-Sam Phillis
-Jarrah Fowler
-Questacon staff team
-UCX staff team
-Our participants
+Blooma John  
+Ram Subramanian  
+Jason Weber  
+David Richardson  
+Sam Phillis  
+Jarrah Fowler  
+Questacon staff team  
+UCX staff team  
+Our participants  
+  
