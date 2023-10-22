@@ -39,7 +39,7 @@ Liam Searle
 Tashi Dhenup  
 Kevin Adamz
   
-Thanks to:
+Thanks to:  
 Blooma John  
 Ram Subramanian  
 Jason Weber  
