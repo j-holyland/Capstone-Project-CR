@@ -27,17 +27,19 @@ https://docs.google.com/forms/d/1nDF7F_DIl_k8jaTXnbyjJPwvsmWt7paCO1skvndoRfA/edi
 Credits:
 
 Team CR:  
-Jay Holyland (Project Manager)  
+Jay Holyland  
+Soniya KC  
 Matthew Morriss  
 Mark Vlatkovic  
-Soniya KC  
+
 
 Team VHB:  
 Ryan Young (Project Manager)  
 Liam Searle  
 Tashi Dhenup  
-Kevin Adamz  
-
+Kevin Adamz
+  
+Thanks to:
 Blooma John  
 Ram Subramanian  
 Jason Weber  
