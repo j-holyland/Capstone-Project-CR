@@ -34,7 +34,7 @@ Mark Vlatkovic
 
 
 Team VHB:  
-Ryan Young (Project Manager)  
+Ryan Young  
 Liam Searle  
 Tashi Dhenup  
 Kevin Adamz
